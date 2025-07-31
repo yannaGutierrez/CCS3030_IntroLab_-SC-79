@@ -1,0 +1,21 @@
+.introTitle {
+    text-align: center;
+}
+.myPicture {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.intro {
+    text-align: center;
+}
+.description {
+    text-align: center;
+}
+
+.skills {
+    font-size: 20px;
+    
+}
