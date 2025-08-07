@@ -2,11 +2,11 @@
     text-align: center;
 }
 .myPicture {
-    width: 100px;
+    width: 50px;
     height: auto;
     display: block;
     margin: 0 auto;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .intro {
     text-align: center;
@@ -16,6 +16,6 @@
 }
 
 .skills {
-    font-size: 20px;
-    
+    font-size: 25px;
+
 }
